@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kmsoteras
-- 👀 I’m interested in web develoopment, ux/ui design and digital marketing
+- 👀 I’m interested in web development, ux/ui design and digital marketing
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me igainadigital@gmail.com
